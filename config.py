@@ -2,8 +2,8 @@ import os
 
 class AventroConfig:
     COMPANY_NAME = "Aventro"
-    SUPPORT_EMAIL = "support@aventro.com"
-    WEBSITE = "https://aventro.com"
+    SUPPORT_EMAIL = "info@aventro.co.uk"
+    WEBSITE = "https://www.aventro.co.uk"
     
     # Hosting Plans
     HOSTING_PLANS = {
