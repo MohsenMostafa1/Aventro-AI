@@ -7,19 +7,14 @@ class AventroConfig:
     
     # Hosting Plans
     HOSTING_PLANS = {
-        "starter": {
-            "name": "Starter Managed Hosting",
-            "price": 29.99,
-            "features": ["10GB SSD Storage", "Unlimited Bandwidth", "Free SSL", "Email Setup", "Basic Support"]
-        },
-        "business": {
+        "UK": {
             "name": "Business Managed Hosting", 
-            "price": 59.99,
+            "price": 25.99£,
             "features": ["25GB SSD Storage", "Unlimited Bandwidth", "Free SSL", "Priority Support", "Daily Backups"]
         },
-        "enterprise": {
-            "name": "Enterprise Managed Hosting",
-            "price": 99.99,
+        "Middle East": {
+            "name": "Business Managed Hosting",
+            "price": 29.99$,
             "features": ["50GB SSD Storage", "Unlimited Bandwidth", "Free SSL", "24/7 Priority Support", "Daily Backups", "Security Monitoring"]
         }
     }
